@@ -1,0 +1,1 @@
+let isRich=true;
